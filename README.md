@@ -18,5 +18,8 @@ The project was developed using **Python** and executed on **Google Colab**. The
 4. **Named Entity Recognition (NER):** Extracted entities classified as PERSON, ORGANIZATION, and Geopolitical Entities (GPE), and performed manual error analysis on ambiguous entities like "Jack Straw" and "Madrid".
 5. **Interactive Mini-Application:** Developed a Keyword Frequency Dashboard that allows users to select a news category (Politics, Business, or Sport) and dynamically view a bar chart of the top 10 most frequent keywords.
 
+## Dataset
+The BBC News Dataset used in this project is compressed due to its large size. You can download the dataset directly from [Google Drive](https://drive.google.com/drive/folders/1x5RJKzpNLRfrbSYVCu3exYu-EeTJmGnM?usp=sharing).
+
 ## Course
 Natural Language Processing
